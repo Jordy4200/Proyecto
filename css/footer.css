@@ -1,0 +1,27 @@
+.footer-container {
+    display: flex;
+    justify-content: space-around; 
+    align-items: center;
+    background-color:  rgb(16, 10, 51);
+    color: #eeeeee;
+    padding: 30px 20px;
+    text-align: center;
+}
+
+.footer-columnas {
+    flex: 1; 
+    padding: 0 20px; 
+}
+
+.footer-column img {
+    width: 100%; 
+    height: auto;
+}
+
+.footer-column h3 {
+    margin-bottom: 10px;
+}
+
+.footer-column p {
+    margin: 0;
+}
